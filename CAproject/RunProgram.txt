@@ -1,0 +1,4 @@
+LDI R1 7 
+LB R2 0
+SUB R1 R2
+SB R1 1
